@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GSciPYuTyYq0fncP3aIjFtLI4fjmgAnx61xDh74xi50=",
+  "Source": "TestNotification2.API",
+  "BasePath": "_content/TestNotification2.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LejtbN7STnj1CEQ90/huSguS5mKT0iksHJ2doIsAJtc=",
+  "Source": "TestNotification2.API",
+  "BasePath": "_content/TestNotification2.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
